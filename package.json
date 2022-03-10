@@ -1,0 +1,11 @@
+{
+  "name": "conversor-tabelas-pdf-to-json",
+  "version": "1.0.0",
+  "main": "src/rubricas.js",
+  "repository": "https://github.com/pablogeokar/conversor-tabelas-pdf-to-json.git",
+  "author": "Pablo George <pablogeokar@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pdf.js-extract": "^0.1.5"
+  }
+}
